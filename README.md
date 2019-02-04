@@ -1,6 +1,6 @@
 #Overview of my custom dotfiles and configuration files.
 
-Markup 1. Created 30-thinkpad.conf for click event on the touchpad using libinput drivers. The changing of property using xinput was temporary.
+1. Created 30-thinkpad.conf for click event on the touchpad using libinput drivers. The changing of property using xinput was temporary.
        2. Created 20-video.conf to add backlight event.
        3. Added bindings to function + volumeup and function + volumedown to i3 config files.
        4. Added bindings to function+brightness up and down key to i3 config files.
